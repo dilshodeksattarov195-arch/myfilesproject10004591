@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperdalidate",
+        "uuid": 10219566,
+        "checksum": "74tsg8"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
